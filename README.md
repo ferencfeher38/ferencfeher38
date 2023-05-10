@@ -23,5 +23,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="nodejs" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="figma" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/600px-Canva_icon_2021.svg.png?20220821125247" alt="canva" width="40" height="40"/>&nbsp;
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferencfeher38&show_icons=true&locale=en" alt="ferencfeher38" /></p>
