@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferenc</h1>
-<h3 align="justify">My name is Ferenc Mátyás Fehér. I am 23 years old. I am currently studying Software Engineering at the University of Szeged. I am interested in web development, which I was also able to learn at university. I already have experience in frontend development, but I consider myself a beginner frontend developer. I have participated in many projects at university and I have also worked on my own projects in my free time. In the future, I would like to continue working in this field and improve my skills.</h3>
+<h3 align="justify">My name is Ferenc Mátyás Fehér. I am 23 years old. I have just graduated University with a Bachelor’s degree in Computer Science. I am interested in web development, which I was also able to learn at university. I already have experience in frontend development, but I consider myself a beginner frontend developer. I have participated in many projects at university and I have also worked on my own projects in my free time. In the future, I would like to continue working in this field and improve my skills.</h3>
 
 - 👨‍💻 Portfolio: https://ferenc-feher.netlify.app
 
