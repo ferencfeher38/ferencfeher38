@@ -9,7 +9,7 @@ I am a frontend developer with nearly 3 years of professional experience, bringi
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ferencfeher">
+  <a href="https://linkedin.com/in/ferencmatyasfeher">
     <img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="LinkedIn"
